@@ -54,6 +54,23 @@ Design a social media feed system like Twitter or Facebook. Explore feed generat
 
 #### [File Storage System](file-storage.md)
 Design a distributed file storage system like Google Drive or AWS S3. Learn about metadata separation, replication, deduplication, and scaling to exabytes of storage.
+### [Dynamic Algorithms](dynamic-algorithms.md)
+
+Learn about different types of dynamic algorithms used in distributed systems:
+
+- **Dynamic Load Balancing** - Round robin, least connections, response time-based, and adaptive algorithms used in AWS, NGINX, and Kubernetes
+- **Dynamic Routing** - Distance vector, link state, path vector, and geographic routing in networks and CDNs
+- **Dynamic Resource Allocation** - Auto-scaling, memory allocation, and CPU scheduling in cloud platforms
+- **Dynamic Consensus** - Raft, PBFT, and adaptive Byzantine fault tolerance in distributed systems
+- **Dynamic Caching** - LRU, LFU, ARC, and time-based expiration strategies
+- **Dynamic Scheduling** - Priority-based, deadline-based, fair scheduling, and work-stealing algorithms
+- **Dynamic Failure Detection** - Heartbeat-based, phi accrual, and gossip-based failure detection
+
+Each algorithm type includes:
+- Clear definitions and how they adapt to changing conditions
+- Real-world examples from production systems
+- Trade-offs and implementation considerations
+- Best practices for deployment
 
 ## Overview
 
