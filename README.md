@@ -19,6 +19,24 @@ Each model includes:
 - Trade-offs and use cases
 - Guidance on when to use each model
 
+### [Dynamic Algorithms](dynamic-algorithms.md)
+
+Learn about different types of dynamic algorithms used in distributed systems:
+
+- **Dynamic Load Balancing** - Round robin, least connections, response time-based, and adaptive algorithms used in AWS, NGINX, and Kubernetes
+- **Dynamic Routing** - Distance vector, link state, path vector, and geographic routing in networks and CDNs
+- **Dynamic Resource Allocation** - Auto-scaling, memory allocation, and CPU scheduling in cloud platforms
+- **Dynamic Consensus** - Raft, PBFT, and adaptive Byzantine fault tolerance in distributed systems
+- **Dynamic Caching** - LRU, LFU, ARC, and time-based expiration strategies
+- **Dynamic Scheduling** - Priority-based, deadline-based, fair scheduling, and work-stealing algorithms
+- **Dynamic Failure Detection** - Heartbeat-based, phi accrual, and gossip-based failure detection
+
+Each algorithm type includes:
+- Clear definitions and how they adapt to changing conditions
+- Real-world examples from production systems
+- Trade-offs and implementation considerations
+- Best practices for deployment
+
 ## Overview
 
 This playbook covers fundamental distributed systems concepts with a focus on practical understanding. Each topic includes real-world examples from popular services like Amazon S3, Google Drive, and blockchain networks to help illustrate how these concepts are applied in production systems.
